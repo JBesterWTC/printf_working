@@ -6,9 +6,9 @@
 # include "libft.h"
 
 struct	s_action {
-	char	flags[4];
+	char	flags[5];
 	int		flags2[5];
-	char	conv[13];
+	char	conv[14];
 	char	*result;
 	int		count;
 	int		count1;
